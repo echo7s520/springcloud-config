@@ -1,1 +1,2 @@
-main ------------dev ---- version = 1
+config:
+  info: main ------------dev ---- version = 1
