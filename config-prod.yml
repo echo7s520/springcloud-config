@@ -1,1 +1,2 @@
-dev ------------prod ---- version = 1
+config:
+  info: dev ------------prod ---- version = 1
