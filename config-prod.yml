@@ -1,2 +1,2 @@
 config:
-  info: main ------------prod ---- version = 1
+  info: "main ------------prod ---- version = 1"
